@@ -63,7 +63,7 @@ function Footer() {
               Contact
             </li>
             <li className="text-gray-500 text-sm pb-2 font-semibold hover:text-violet-600 cursor-pointer">
-              FAQ's
+              FAQ&apos;s
             </li>
 
             <li className="text-gray-500 text-sm pb-2 font-semibold hover:text-violet-600 cursor-pointer">
